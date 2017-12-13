@@ -1,5 +1,6 @@
 This is vsftpd, version 3.0.2
-Author: Chris Evans
+Author: Chris Evans R
+
 Contact: scarybeasts@gmail.com
 Website: http://vsftpd.beasts.org/
 - All options are documented in the vsftpd.conf.5 manual page.
